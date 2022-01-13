@@ -71,3 +71,12 @@ img {
 .clear {
   clear: both;
 }
+
+
+@media screen and (max-width: 420px){
+  
+ #lezioni , .container , #why {
+    background-color: #F2F2CD;
+    width: 100%;
+  }
+}
